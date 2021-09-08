@@ -33,7 +33,7 @@ Partial Class Form1
         '
         'btnView
         '
-        Me.btnView.Location = New System.Drawing.Point(53, 13)
+        Me.btnView.Location = New System.Drawing.Point(35, 64)
         Me.btnView.Name = "btnView"
         Me.btnView.Size = New System.Drawing.Size(182, 23)
         Me.btnView.TabIndex = 0
@@ -62,7 +62,7 @@ Partial Class Form1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Tahoma", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(30, 123)
+        Me.Label1.Location = New System.Drawing.Point(40, 9)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(177, 25)
         Me.Label1.TabIndex = 3
@@ -72,7 +72,7 @@ Partial Class Form1
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(68, 199)
+        Me.Label2.Location = New System.Drawing.Point(50, 256)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(43, 14)
         Me.Label2.TabIndex = 4
@@ -82,7 +82,7 @@ Partial Class Form1
         '
         Me.lblInfo.AutoSize = True
         Me.lblInfo.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblInfo.Location = New System.Drawing.Point(76, 232)
+        Me.lblInfo.Location = New System.Drawing.Point(50, 232)
         Me.lblInfo.Name = "lblInfo"
         Me.lblInfo.Size = New System.Drawing.Size(91, 14)
         Me.lblInfo.TabIndex = 5
